@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CoroutingDemostration</string>
+    <string name="textName">My ToDo List</string>
+    <string name="btnValue">ADD ITEM</string>
 </resources>
